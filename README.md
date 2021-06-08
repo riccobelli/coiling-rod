@@ -1,6 +1,6 @@
 # Coiling rod
 
-In this repository, you can find the source code used to numerically solve the mathematical problem of a rod coiling about a straight, rigid constraint. The model and the results of the numerical simulations are contained in this paper currently under review [[1]](#1).
+In this repository, you can find the source code used to numerically solve the mathematical problem of a rod coiling about a straight, rigid constraint. The model and the results of the numerical simulations are contained in this paper [[1]](#1).
 
 ## Dependencies
 
@@ -33,6 +33,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## References
 <a id="1">[1]</a>
-D. Riccobelli, G. Noselli, A. DeSimone (2020).
-Rods coiling about a rigid constraint: Helices and perversions
-*Proceedings of the Royal Society A: Mathematical, Physical and Engineering*, under review.
+D. Riccobelli, G. Noselli, A. DeSimone (2020). Rods coiling about a rigid constraint: Helices and perversions. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering*, 477(2246), 20200817..
